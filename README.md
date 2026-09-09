@@ -60,7 +60,7 @@ The primary objective of this project is to evaluate whether replacing standard,
 ## Project Structure
 
 ```text
-├── dataset/               # Local directory for raw and exported CSV files
+├── data/                  # Local directory for raw and exported CSV files
 ├── img/                   # Generated experimental charts and visualization figures
 ├── notebook/              # Jupyter Notebook containing A/B test analysis and SQL validation
 ├── README.md              # Executive summary and project documentation
