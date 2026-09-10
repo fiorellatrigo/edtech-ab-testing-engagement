@@ -1,7 +1,7 @@
 # EdTech A/B Testing: Optimizing Student Engagement via Micro-Learning Nudges
 
 <p align="center">
-  <img src="img/conversion_and_assignment_completion_rate.png" width="700">
+  <img src="dashboard/preview_overall.png" width="700">
 </p>
 
 ## 1. The Problem
