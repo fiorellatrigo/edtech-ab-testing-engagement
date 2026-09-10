@@ -1,4 +1,4 @@
-cefr_level,group,total_students,total_completed,conversion_rate,p_value,overall_p_value
+cefr_level,group,total_students,completed_assignments,conversion_rate,p_value,overall_p_value
 A1,control,633,119,0.188,0.006030063158759178,0.0023912460393701726
 A1,treatment,631,159,0.252,0.006030063158759178,0.0023912460393701726
 A2,control,655,131,0.2,0.4716381343113527,0.0023912460393701726
